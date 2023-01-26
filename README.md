@@ -14,14 +14,11 @@ Denoising Diffusion Models (DDMs) have become a popular tool for generating high
 ## Citation
 If you find MMD-DDM helpful in your research, please consider citing: 
 ```bibtex
-@misc{https://doi.org/10.48550/arxiv.2301.07969,
-  doi = {10.48550/ARXIV.2301.07969},
-  url = {https://arxiv.org/abs/2301.07969},
-  author = {Aiello, Emanuele and Valsesia, Diego and Magli, Enrico},
-  title = {Fast Inference in Denoising Diffusion Models via MMD Finetuning},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {Creative Commons Attribution 4.0 International}
+@article{aiello2023fast,
+  title={Fast Inference in Denoising Diffusion Models via MMD Finetuning},
+  author={Aiello, Emanuele and Valsesia, Diego and Magli, Enrico},
+  journal={arXiv preprint arXiv:2301.07969},
+  year={2023}
 }
 ```
 
