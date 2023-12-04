@@ -37,9 +37,12 @@ If you find MMD-DDM helpful in your research, please consider citing:
 }
 ```
 
+## Acknowledgements 
+This repository is based on DDIM official implementation: https://github.com/ermongroup/ddim
+
 ## Contact 
 If you have any questions, feel free to open an issue or contact us at emanuele.aiello@polito.it
 
 <br><br>
 <p align="center">:construction: :pick: :hammer_and_wrench: :construction_worker:</p>
-<p align="center">Code and pretrained models will be released soon!</p>
+<p align="center">pretrained models will be released soon!</p>
